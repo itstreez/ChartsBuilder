@@ -1,0 +1,16 @@
+{
+    "objects": [
+        {
+            "id": 1, "label": "Germany", "value": 600, "color": "red", "label2": 100
+        },
+        {
+            "id": 2, "label": "France", "value": 700, "color": "green", "label2": 200
+        },
+        { "id": 3, "label": "Lebanon", "value": 900, "color": "gold", "label2": 400
+        },
+        { "id": 4, "label": "US", "value": 1000, "color": "blue", "label2": 500
+        },
+        { "id": 5, "label": "UK", "value": 300, "color": "white", "label2": 600
+        }
+    ]
+}
